@@ -12,7 +12,7 @@ heure_cible = 11
 
 occ = 0
 
-name = "Enzo"
+name = ""
 starting = "Bon Anniversaire"
 txt = f"{starting} {name} !!!!"
 txt_s = txt.split()
@@ -54,3 +54,4 @@ while True:
         break
     else:
         time.sleep(60)
+
